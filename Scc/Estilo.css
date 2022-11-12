@@ -1,0 +1,53 @@
+#boton{
+    padding: 0;
+   
+}
+
+#boton li{
+display: inline;
+
+}
+
+#boton li a {
+    font-family: Arial;
+    font-size:11px;
+    text-decoration: none;
+    float:left;
+    padding: 10px;
+    background-color: #2175bc;
+    color: #fff;
+}
+
+#boton li a:hover {
+    background-color: #2586d7;
+    margin-top:-2px;
+    padding-bottom:12px;
+    }
+
+    body{
+background: 	#FAF0E6;
+
+    }
+
+#slider{
+position: relative;
+box-shadow: 0 4px 8px 0 lightblue;
+height: 80px;
+width: 100%;
+}
+
+
+/*prubea de cuadros mamalonas
+*/
+div.Album{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 #008000, 0 6px 20px 0 rgba(0,0,0,0.19);
+    float: left;
+    width: 350px;
+}
+
+div.Album img{
+    width: 100%;
+    height: 200px ;
+}
+
